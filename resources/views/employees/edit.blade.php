@@ -242,7 +242,11 @@
     </div>
 
 </div>
-
+<footer class="bg-white text-dark text-center py-3 mt-5">
+    <p class="mb-0">
+        Developed by <strong>Md. Anwar Parvez</strong>
+    </p>
+</footer>
 </body>
 </html>
 
